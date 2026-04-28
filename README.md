@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yuki 👋
 
-<!--
-**yukicode26/yukicode26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web development student at Holmesglen · Melbourne
 
-Here are some ideas to get you started:
+## About
+Building things for the web with React. Passionate about creating
+meaningful, accessible experiences. Currently learning — always improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+
+## Contact
+📧 yukicode26@gmail.com
