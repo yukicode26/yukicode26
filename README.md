@@ -1,25 +1,26 @@
-# Hi, I'm Yuki
+# Yuki
 
-Web development diploma student in Melbourne.  
-I'm currently learning React and Next.js, and building modern, user-friendly web applications.
+Melbourne-based web development diploma student.  
+Focused on building clean, modern, and user-friendly web applications with React and Next.js.
 
----
+
 
 ## Skills
-React · Next.js · JavaScript · HTML · CSS · Tailwind CSS
+React / Next.js / JavaScript  
+HTML / CSS / Tailwind CSS
 
----
+
 
 ## Projects
 
-### Portfolio
-https://yukicode26.pages.dev
+**Portfolio**  
+https://yukicode26.pages.dev  
 
-### Cocktail App (API-based)
+**Cocktail App (API)**  
 https://cocktaillab.pages.dev/
 
----
+
 
 ## Contact
-Email: [yukicode26@gmail.com](mailto:yukicode26@gmail.com)  
+Email: yukicode26@gmail.com  
 GitHub: https://github.com/yukicode26
